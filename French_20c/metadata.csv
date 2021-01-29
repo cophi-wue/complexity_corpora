@@ -1,0 +1,71 @@
+Filename	author-name	translation	author-gender	book-title	publ-year	publ-decade	publisher	collection		subgenre	group	brow	prizes
+Bourin_Amours.txt	Bourin, Jeanne	no	female	Les amours blessées	1987	1980s	Gallimard	Folio		blanche	blanche	high	a: Académie
+Bourin_Compagnons.txt	Bourin, Jeanne	no	female	Les compagnons d'éternité	1992	1990s	Gallimard	Folio		blanche	blanche	high	a: Académie
+Bourin_Peregrines.txt	Bourin, Jeanne	no	female	Les Pérégrines	1989	1980s	Gallimard	Folio		blanche	blanche	high	a: Académie
+Constant_Fille.txt	Constant, Paule	no	female	La fille du Gobernator	1994	1990s	Gallimard	Folio		blanche	blanche	high	a: Goncourt, Académie
+Duras_Amant.txt	Duras, Marguerite	no	female	Amant	1984	1980s	(unknown)	(unknown)		blanche	blanche	high	n: Goncourt
+Duras_Yeux.txt	Duras, Marguerite	no	female	Yeux Bleus	1986	1980s	(unknown)	(unknown)		blanche	blanche	high	a: Goncourt
+Fleutiaux_Allons.txt	Fleutieaux, Pierrette	no	female	Allons-nous être heureux?	1994	1990s	Gallimard	Folio		blanche	blanche	high	a: Fémina
+HermaryVieille_Grand.txt	Hermary-Vieille, Catherine	no	female	Le grand vizir de la nuit	1981	1980s	Gallimard	Folio		blanche	blanche	high	n: Fémina
+HermaryVieille_Marquise.txt	Hermary-Vieille, Catherine	no	female	La Marquise des Ombres	1983	1980s	Denoël	Folio		blanche	blanche	high	a: Fémina
+Nothomb_Attentat.txt	Nothomb, Amélie	no	female	Attentat	1997	1990s	(unknown)	(unknown)		blanche	blanche	high	a: Prix Académie
+Nothomb_Hygiene.txt	Nothomb, Amélie	no	female	Hygiene Assassin	1992	1990s	(unknown)	(unknown)		blanche	blanche	high	a: Prix Académie
+Nothomb_Peplum.txt	Nothomb, Amélie	no	female	Peplum	1996	1990s	(unknown)	(unknown)		blanche	blanche	high	a: Prix Académie
+Perrein_Fourmi.txt	Perrein, Michèle	no	female	Comme une fourmi cavalière	1980	1980s	Grasset	(unknown)		blanche	blanche	high	a: Interallié
+Rolin_Deux.txt	Rolin, Dominique	no	female	Deux femmes un soir	1992	1990s	Gallimard	Folio		blanche	blanche	high	a: Fémina
+Bon_Sortie.txt	Bon, Francois	no	male	Sortie Usine	1982	1980s	(unknown)	(unknown)		blanche	blanche	high	a: nombreux prix
+Boulanger_Confession.txt	Boulanger, Daniel	no	male	La confession d'Omer	1991	1990s	Gallimard	Folio		blanche	blanche	high	a: nombreux prix
+Clot_Enfant.txt	Clot, René-Jean	no	male	L'Enfant halluciné	1987	1980s	Grasset	(unknown)		blanche	blanche	high	n: Renaudot
+Deon_Bagages.txt	Déon, Michel	no	male	Bagages pour Vancouver. Mes arches de Noé	1985	1980s	Gallimard	Folio		blanche	blanche	high	a: Membre Académie
+Echenoz_Blondes.txt	Echenoz, Jean	no	male	Blondes	1995	1990s	(unknown)	(unknown)		blanche	blanche	high	a: Prix Médicis, prix Goncourt
+Echenoz_Equipee.txt	Echenoz, Jean	no	male	Equipee	1986	1980s	(unknown)	(unknown)		blanche	blanche	high	a: Médicis, Goncourt
+Jardin_Autobiographie.txt	Jardin, Alexandre	no	male	Autobiographie d'un amour	1999	1990s	Gallimard	Folio		blanche	blanche	high	a: Fémina
+Labro_Ete.txt	Labro, Philippe	no	male	Un été dans l'Ouest	1988	1980s	Gallimard	Folio		blanche	blanche	high	a: Interallié, presque Goncourt
+Labro_Petit.txt	Labro, Philippe	no	male	Le Petit garçon	1988	1980s	Gallimard	Folio		blanche	blanche	high	a: Interallié, presque Goncourt
+LeClezio_Onitsha.txt	Le Clézio, Jean-Marie Gustave	no	male	Onitsha	1991	1990s	Gallimard	(unknown)		blanche	blanche	high	a: Nobel
+Modiano_Cirque.txt	Modiano, Patrick	no	male	Cirque Passe	1992	1990s	(unknown)	(unknown)		blanche	blanche	high	a: Nobel
+Modiano_Dora.txt	Modiano, Patrick	no	male	Dora Bruder	1997	1990s	Gallimard	Blanche		blanche	blanche	high	a: Nobel
+Modiano_Quartier.txt	Modiano, Patrick	no	male	Quartier perdu	1984	1980s	Gallimard	Blanche		blanche	blanche	high	a: Nobel
+Modiano_Remise.txt	Modiano, Patrick	no	male	Remise Peine	1988	1980s	(unknown)	(unknown)		blanche	blanche	high	a: Nobel
+Pennac_Petite.txt	Pennac, Daniel	no	male	La petite marchande de prose	1989	1980s	Gallimard	Folio		blanche	blanche	high	a: Renaudot
+Simon_Derive.txt	Simon, Yves	no	male	La Dérive des sentiments	1991	1990s	Grasset	(unknown)		blanche	blanche	high	n: Médicis
+Simon_Georgiques.txt	Simon, Claude	no	male	Georgiques	1981	1980s	(unknown)	(unknown)		blanche	blanche	high	a: Nobel
+Simon_Prochain.txt	Simon, Yves	no	male	Le prochain amour	1996	1990s	Grasset	(unknown)		blanche	blanche	high	n: Médicis
+Tournier_Gaspard.txt	Tournier, Michel	no	male	Gaspard, Melchior et Balthazar	1980	1980s	Gallimard	Blanche		blanche	blanche	high	a: Goncourt, Académie
+Vautrin_Grand.txt	Vautrin, Jean	no	male	Un grand pas vers le Bon Dieu	1989	1980s	Grasset	(unknown)		blanche	blanche	high	a: Goncourt
+Veinstein_Accordeur.txt	Veinstein, Alain	no	male	L'accordeur	1996	1990s	Gallimard	Folio		blanche	blanche	high	a: deux prix
+Bachellerie_Ile.txt	Bachellerie, Louise	no	female	L'île aux muettes	1985	1980s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Bachellerie_Rue.txt	Bachellerie, Louise	no	female	La rue des bons apôtres	1985	1980s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Bouhier_Portrait.txt	Bouhier, Florence	no	female	Portrait de l'artiste en assassin	1999	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Cerignac_Moliere.txt	de Cérignac, Dominique	no	female	On tue chez Molière	1995	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Japp_Bostonienne.txt	Japp, Andrea H.	no	female	La bostonienne	1991	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Japp_Chante.txt	Japp, Andrea H.	no	female	Elle qui chante quand la mort vient	1993	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Japp_Femelle.txt	Japp, Andrea H.	no	female	La femelle de l'espèce	1996	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Japp_Petite.txt	Japp, Andrea Philip	no	female	Le petite au chien jaune	1993	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Pourunjour_Voisins.txt	Pourunjour, Caroline	no	female	Des voisins très inquiétants	1984	1980s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Vargas_Homme.txt	Vargas, Fred	no	female	Homme Envers	1999	1990s	(unknown)	(unknown)		policier	populaire	low	n/a
+Vargas_Sans.txt	Vargas, Fred	no	female	Sans Feu	1997	1990s	(unknown)	(unknown)		policier	populaire	low	n/a
+Derenne_Cylia.txt	Derenne, Elisabeth	no	female	Cylia	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Hutchinson_Soleil.txt	Hutchinson, Bobby	yes	female	Au soleil de minuit	1989	1980s	Harlequin	Collection Or		sentimental	populaire	low	n/a
+Jammet_Sylvie.txt	Jammet, Céline	no	female	Sylvie	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Mequillet_Muriel.txt	Méquillet, Lise	no	female	Muriel	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Mousset_Jane.txt	Mousset, Christiane	no	female	Jane	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Roszel_Jardin.txt	Roszel, Renee	yes	female	Le jardin des amants	1991	1990s	Harlequin	Rouge Passion		sentimental	populaire	low	n/a
+Stephens_Ciel.txt	Stephens, Jeanne	yes	female	Comme un ciel d'orage	1990	1990s	Harlequin	Duo Harmonie		sentimental	populaire	low	n/a
+Tornielle_Lina.txt	Tornielle, Camille	no	female	Lina	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+vanWieren_Reves.txt	van Wieren, Mona	no	female	Les rêves d'une architecte	1989	1980s	Harlequin	Duo Romance		sentimental	populaire	low	n/a
+Vasilos_Mystere.txt	Vasilos, Tina	yes	female	Le mystère Alexios Parris	1992	1990s	Harlequin	Collection Or		sentimental	populaire	low	n/a
+Woods_Pluie.txt	Woods, Sherryl	yes	female	Pluie d'or	1990	1990s	Harlequin	Rouge Passion		sentimental	populaire	low	n/a
+Glenn_Amour.txt	Glenn, Victoria	yes	female	Un amour de jeunesse	1990	1990s	Harlequin	Duo Romance		sentimental	populaire	low	n/a
+BoileauNarcejac_Ombre.txt	Boileau, Pierre / Narcejac, Thomas	no	male	L'ombre et la proie	1984	1980s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Daeninckx_Der.txt	Daeninckx, Didier	no	male	Der Des Ders	1984	1980s	(unknown)	(unknown)		policier	populaire	low	n/a
+Daeninckx_Facteur.txt	Daeninckx, Didier	no	male	Facteur Fatal	1990	1990s	(unknown)	(unknown)		policier	populaire	low	n/a
+Guibert_Piano.txt	Guibert, Michel	no	male	Piano nobile	1981	1980s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Lebeau_Algebre.txt	Lebeau, Guillaume	no	male	L'Algèbre du besoin	1999	1990s	Le Masque	Romans d'aventures		policier	populaire	low	n/a
+Manchette_Iris.txt	Manchette, Patrick	no	male	Iris	1997	1990s	(unknown)	(unknown)		policier	populaire	low	n/a
+BatailleT_Valerie.txt	Bataille, Thierry	no	male	Valérie	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Estebe_Laureen.txt	Estebe, Jean-Luc	no	male	Laureen	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Forest_Chanson.txt	Forest, Regan	yes	male	La chanson du vent	1990	1990s	Harlequin	Duo Desir		sentimental	populaire	low	n/a
+Ouravel_Sophie.txt	Ouravel, Boris	no	male	Sophie	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Picard_Ingrid.txt	Picard, Gilbert	no	male	Ingrid	1987	1980s	Fleuve Noir	Femme Viva		sentimental	populaire	low	n/a
+Win_Madison.txt	Win, David	yes	male	Madison Avenue	1989	1980s	Harlequin	Grands Romans		sentimental	populaire	low	n/a

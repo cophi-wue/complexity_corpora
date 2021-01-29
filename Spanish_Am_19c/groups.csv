@@ -1,0 +1,61 @@
+filename,title,author,author-gender,title-long,author-long,group,genre,subgenre,year,country,narrative-perspective,words
+nh0004.txt,FalsoInca,PayroR,male,El falso Inca,Roberto Payró,high,novel,historical novel,1905,Argentina,heterodiegetic,21997
+nh0007.txt,Zarco,AltamiranoIM,male,El Zarco,Ignacio Manuel Altamirano,high,novel,historical novel,1901,Mexico,heterodiegetic,50965
+nh0008.txt,AmarVuelo,RivarolaEE,male,Amar al vuelo,Enrique E. Rivarola,low,novel,novel of manners,1884,Argentina,heterodiegetic,41611
+nh0009.txt,Rastreador,GutierrezE,male,El rastreador,Eduardo Gutiérrez,low,novel,historical novel,1886,Argentina,heterodiegetic,88720
+nh0011.txt,SinRumbo,CambaceresE,male,Sin rumbo,Eugenio Cambaceres,high,novel,naturalistic novel,1885,Argentina,heterodiegetic,33544
+nh0012.txt,Sangre,CambaceresE,male,En la sangre,Eugenio Cambaceres,high,novel,naturalistic novel,1887,Argentina,heterodiegetic,40924
+nh0013.txt,Carmela,MezaR,male,Carmela,Ramón Meza,high,novel,sentimental novel,1887,Cuba,heterodiegetic,50455
+nh0014.txt,Leoncio,AuberNoyaVF,female,Leoncio,Felicia Auber de Noya,low,novel,sentimental novel,1844,Cuba,heterodiegetic,40255
+nh0015.txt,Puebla,SaladoAlvarezV,male,Puebla,Victoriano Salado Álvarez,high,novel,historical novel,1903,Mexico,heterodiegetic,90242
+nh0016.txt,Romualdo,CalcagnoF,male,Romualdo,Francisco Calcagno,low,novel,antislavery novel,1881,Cuba,heterodiegetic,30800
+nh0017.txt,Amalia,MarmolJ,male,Amalia,José Mármol,high,novel,historical novel,1855,Argentina,heterodiegetic,231376
+nh0020.txt,SY,CalcagnoF,male,S. Y.,Francisco Calcagno,low,novel,historical novel,1895,Cuba,heterodiegetic,26580
+nh0021.txt,CruzFalta,OcantosCM,male,La cruz de la falta,Carlos María Ocantos,low,novel,sentimental novel,1883,Argentina,heterodiegetic,39814
+nh0022.txt,Tomochic,FriasH,male,Tomóchic,Heriberto Frías,high,novel,historical novel,1894,Mexico,heterodiegetic,61881
+nh0025.txt,LuciaMiranda,MansillaE,female,Lucía Miranda,Eduarda Mansilla,high,novel,historical novel,1860,Argentina,heterodiegetic,71994
+nh0026.txt,CruzEspada,AnconaE,male,La cruz y la espada,Eligio Ancona,high,novel,historical novel,1866,Mexico,heterodiegetic,102735
+nh0028.txt,AlbertoTrejo,MohrLA,male,Alberto Trejo,Luis Alberto Mohr,low,novel,naturalistic novel,1884,Argentina,heterodiegetic,40595
+nh0029.txt,LibroExtrano,SicardiF,male,Libro extraño,Francisco Sicardi,high,novel,naturalistic novel,1894,Argentina,heterodiegetic,99767
+nh0035.txt,NoviaHereje,LopezVF,male,La novia del hereje,Vicente Fidel López,high,novel,historical novel,1855,Argentina,heterodiegetic,140319
+nh0036.txt,Parcela,LopezPortilloRojasJ,male,La parcela,José López Portillo y Rojas,high,novel,realist novel,1898,Mexico,heterodiegetic,90800
+nh0038.txt,InocentesCulpables,ArgerichJA,male,Inocentes o culpables,Juan Antonio Argerich,high,novel,naturalistic novel,1884,Argentina,heterodiegetic,76569
+nh0039.txt,Quimera,CantiloJL,male,Quimera,José Luis Cantilo,low,novel,novel of manners,1899,Argentina,heterodiegetic,36161
+nh0040.txt,CapitanPatricios,GutierrezJM,male,El capitán de Patricios,Juan María Gutiérrez,low,novel,historical novel,1864,Argentina,heterodiegetic,16253
+nh0041.txt,PozoYocci,GorritiJM,female,El pozo del Yocci,Juana Manuela Gorriti,high,novel,historical novel,1876,Argentina,heterodiegetic,19643
+nh0043.txt,JuezVerdugo,GorritiJM,female,Juez y verdugo,Juana Manuela Gorriti,low,novel,sentimental novel,1876,Argentina,heterodiegetic,19791
+nh0044.txt,Conjura,CastellanosJ,male,La conjura,Jesús Castellanos,high,novel,realist novel,1909,Cuba,heterodiegetic,22991
+nh0045.txt,EmiliaCoquetismo,MachaliR,male,Emilia o los efectos del coquetismo,Ramón Machali,low,novel,sentimental novel,1862,Argentina,heterodiegetic,39646
+nh0047.txt,Quilito,OcantosCM,male,Quilito,Carlos María Ocantos,high,novel,realist novel,1891,Argentina,heterodiegetic,83234
+nh0048.txt,DonPerfecto,OcantosCM,male,Don Perfecto,Carlos María Ocantos,low,novel,realist novel,1902,Argentina,heterodiegetic,64894
+nh0049.txt,MartinGaratuza,RivaPalacioV,male,Martín Garatuza,Vicente Riva Palacio,high,novel,historical novel,1868,Mexico,heterodiegetic,136380
+nh0050.txt,EnsaladaPollos,CuellarJT,male,Ensalada de pollos,José Tomás de Cuéllar,high,novel,novel of manners,1871,Mexico,heterodiegetic,48747
+nh0051.txt,Stella,BarraE,male,Stella,Emma de la Barra,high,novel,novel of manners,1905,Argentina,heterodiegetic,100447
+nh0052.txt,ParientesRicos,DelgadoR,male,Los parientes ricos,Rafael Delgado,high,novel,realist novel,1902,Mexico,heterodiegetic,105418
+nh0053.txt,JuanMoreira,GutierrezE,male,Juan Moreira,Eduardo Gutiérrez,high,novel,gaucho novel,1880,Argentina,heterodiegetic,81953
+nh0056.txt,MuerteHeroe,GutierrezE,male,La muerte de un héroe,Eduardo Gutiérrez,low,novel,historical novel,1886,Argentina,heterodiegetic,104443
+nh0058.txt,PalomasGavilanes,DominguezS,male,Palomas y gavilanes,Silverio Domínguez,low,novel,naturalistic novel,1886,Argentina,heterodiegetic,37027
+nh0060.txt,Bolsa,MiroJM,male,La bolsa,José María Miró,high,novel,naturalistic novel,1891,Argentina,heterodiegetic,59537
+nh0062.txt,FamiliaQuillango,CantiloJM,male,La familia Quillango,José María Cantilo,low,novel,realist novel,1880,Argentina,heterodiegetic,17162
+nh0063.txt,HerenciasBienes,ZayasGuarnerosP,male,Herencias de bienes robados,Pablo Zayas Guarneros,low,novel,novel of manners,1899,Mexico,heterodiegetic,95614
+nh0064.txt,GilGomez,DiazCovarrubiasJ,male,Gil Gómez el insurgente,Juan Díaz Covarrubias,high,novel,historical novel,1858,Mexico,heterodiegetic,81575
+nh0066.txt,VidaChaleco,MartinezVillergasJ,male,La vida en el chaleco,Juan Martínez Villergas,low,novel,novel of manners,1859,Mexico,heterodiegetic,197895
+nh0068.txt,Calandria,DelgadoR,male,La calandria,Rafael Delgado,high,novel,realist novel,1890,Mexico,heterodiegetic,89456
+nh0069.txt,CerroCampanas,MateosJA,male,El cerro de las campanas,Juan Antonio Mateos,high,novel,historical novel,1868,Mexico,heterodiegetic,213844
+nh0072.txt,MisteriosCorazon,BarredaR,male,Los misterios del corazón,Rafael Barreda,low,novel,sentimental novel,1875,Argentina,heterodiegetic,82395
+nh0077.txt,AmorSublime,ZayasGuarnerosP,male,Amor sublime,Pablo Zayas Guarneros,low,novel,novel of manners,1889,Mexico,heterodiegetic,120775
+nh0080.txt,Santa,GamboaF,male,Santa,Federico Gamboa,high,novel,naturalistic novel,1903,Mexico,heterodiegetic,98005
+nh0081.txt,NovelaSangre,BungeCO,male,La novela de la sangre,Carlos Octavio Bunge,low,novel,historical novel,1903,Argentina,heterodiegetic,79999
+nh0082.txt,AlmaNina,PodestaMT,male,Alma de niña,Manuel T. Podestá,low,novel,sentimental novel,1892,Argentina,heterodiegetic,35006
+nh0084.txt,GloriaDonRamiro,LarretaE,male,La gloria de Don Ramiro,Enrique Larreta,high,novel,historical novel,1908,Argentina,heterodiegetic,88443
+nh0088.txt,Grandezas,MorantePG,male,Grandezas,Pedro G. Morante,low,novel,naturalistic novel,1896,Argentina,heterodiegetic,56661
+nh0090.txt,BandidosRioFrio,PaynoM,male,Los bandidos de Río Frío,Manuel Payno,high,novel,novel of manners,1891,Mexico,heterodiegetic,217243
+nh0091.txt,DonEnriquito,CalcagnoF,male,Don Enriquito,Francisco Calcagno,low,novel,historical novel,1895,Cuba,heterodiegetic,26096
+nh0092.txt,VirgenNiagara,RiveraYRioJ,male,La virgen del Niágara,José Rivera y Río,low,novel,sentimental novel,1871,Mexico,heterodiegetic,115995
+nh0093.txt,HogarPampa,EstradaS,male,El hogar en la pampa,Santiago Estrada,low,novel,novel of manners,1866,Argentina,heterodiegetic,22668
+nh0097.txt,Corregidora,PazI,male,La corregidora,Ireneo Paz,low,novel,historical novel,1887,Mexico,heterodiegetic,91038
+nh0098.txt,MariaMontiel,RosasRiveraM,female,María de Montiel,Mercedes Rosas de Rivera,high,novel,historical novel,1861,Argentina,heterodiegetic,100570
+nh0100.txt,MariaLuisa,PortilloA,male,María Luisa,Andrés Portillo,low,novel,historical novel,1896,Mexico,heterodiegetic,37570
+nh0107.txt,DestruccionPompeya,ZamacoisN,male,La destrucción de Pompeya,Niceto de Zamacois,low,novel,historical novel,1871,Mexico,heterodiegetic,303394
+nh0112.txt,CrimenesConcha,CalcagnoF,male,Los crímenes de Concha,Francisco Calcagno,low,novel,antislavery novel,1887,Cuba,heterodiegetic,51313
+nh0242.txt,HombreNegocios,HerediaN,male,Un hombre de negocios,Nicolás Heredia,low,novel,novel of manners,1882,Cuba,heterodiegetic,42098

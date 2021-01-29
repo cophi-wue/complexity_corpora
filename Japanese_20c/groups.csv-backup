@@ -1,0 +1,48 @@
+filename,title,author,group,genre,year,narrative_perspective,,,,,author_year,,token_count,ndc,,,comments
+Natsume_S_Kusamakura.txt,Kusamakura,Soseki Natsume,high,fiction,1906,autodiegetic,,,,,1867-02-09--1916-12-09,,48693,小説、物語,,,
+Natsume_S_Kokoro.txt,Kokoro,Soseki Natsume,high,fiction,1991,homodiegetic,,,,,1867-02-09--1916-12-09,,98019,小説、物語,,,
+Natsume_S_Sanshirou.txt,Sanshirou,Soseki Natsume,high,fiction,1908,homodiegetic,,,,,1867-02-09--1916-12-09,,93915,小説、物語,,,
+Natsume_S_Bocchan.txt,Bocchan,Soseki Natsume,high,fiction,1906,autodiegetic,,,,,1867-02-09--1916-12-09,,51389,小説、物語,,,
+Dazai_O_Ningenshikka.txt,Ningenshikkaku,Osamu Dazai,high,fiction,1952,autodiegetic,,,,,1909-06-19--1948-06-13,,39788,小説、物語,,,
+Dazai_O_Shayou.txt,Shayou,Osamu Dazai,high,fiction,1947,autodiegetic,,,,,1909-06-19--1948-06-13,,48940,小説、物語,,,
+Yumeno_K_Dogura_Magura.txt,Dogura・Magura,Kyusaku Yumeno,low,detective,1992,autodiegetic,,,,,1889-01-04--1936-03-11,,240272,小説、物語,,,
+Yumeno_K_Shoujojigo.txt,Shoujojigoku,Kyusaku Yumeno,low,detective,1936,homodiegetic,,,,,1889-01-04--1936-03-11,,60215,小説、物語,,,Collection
+Yumeno_K_Oshienokiseki.txt,Oshienokiseki,Kyusaku Yumeno,low,detective,1929,autodiegetic,,,,,1889-01-04--1936-03-11,,35134,小説、物語,,,
+Edogawa_R_Mahouhakase.txt,Mahouhakase,Ranpo Edogawa,low,detective,1956,heterodiegetic,,,,,1894-10-21--1965-07-28,,39021,小説、物語 (児童書),,,
+Edogawa_R_Shounentan.txt,Shounentanteidan,Ranpo Edogawa,low,detective,1937,heterodiegetic,,,,,1894-10-21--1965-07-28,,53166,小説、物語 (児童書),,,
+Edogawa_R_Uchuukaiji.txt,Uchuukaijin,Ranpo Edogawa,low,detective,1953,heterodiegetic,,,,,1894-10-21--1965-07-28,,45612,小説、物語 (児童書),,,
+Edogawa_R_Haiironokyo.txt,Haiironokyojin,Ranpo Edogawa,low,detective,1955,heterodiegetic,,,,,1894-10-21--1965-07-28,,39455,小説、物語 (児童書),,,
+Unno_J_Ukabuhikouto.txt,Ukabuhikoutou,Juza Unno,low,SF,1938,heterodiegetic,,,,,1897-12-26--1949-05-17,,66890,小説、物語 (児童書),,,Young SF
+Unno_J_Kaitouou.txt,Kaitouou,Juza Unno,low,SF,1938,heterodiegetic,,,,,1897-12-26--1949-05-17,,89299,小説、物語 (児童書),,,Young SF
+Unno_J_Kaseiheidan.txt,Kaseiheidan,Juza Unno,low,SF,1939,homodiegetic,,,,,1897-12-26--1949-05-17,,164571,小説、物語 (児童書),,,Young SF
+Unno_J_Chikyuuyousa.txt,Chikyuuyousai,Juza Unno,low,SF,1940,autodiegetic,,,,,1897-12-26--1949-05-17,,38832,小説、物語,,,
+Okamoto_K_Hanshichitorimo.txt,Hanshichitorimonochou: _Hakuchoukai,Kido Okamoto,low,detective,1986,heterodiegetic,,,,,1872-11-15--1939-03-01,,44266,小説、物語,,,岡っ引捕り物小説
+Okamoto_K_Seiadoukida.txt,Seiadoukidan,Kido Okamoto,low,horror,1988,homodiegetic,,,,,1872-11-15--1939-03-01,,71431,小説、物語,,,怪奇
+Okamoto_K_Hidanokaidan.txt,Hidanokaidan,Kido Okamoto,low,horror,1912,homodiegetic,,,,,1872-11-15--1939-03-01,,60867,小説、物語,,,怪奇
+Okamoto_K_Ryougokunoa.txt,Ryougokunoaki,Kido Okamoto,low,horror,1993,homodiegetic,,,,,1872-11-15--1939-03-01,,34396,小説、物語,,,怪奇
+Okamoto_K_Tamamonomae.txt,Tamamonomae,Kido Okamoto,low,horror,1992,homodiegetic,,,,,1872-11-15--1939-03-01,,75679,小説、物語,,,怪奇
+Mori_O_Uita_Sekusu.txt,Uita・Sekusuarisu,Ogai Mori,high,fiction,1909,autodiegetic,,,,,1862-02-17--1922-07-09,,35630,小説、物語,,,
+Mori_O_Seinen.txt,Seinen,Ogai Mori,high,fiction,1910,homodiegetic,,,,,1862-02-17--1922-07-09,,73259,小説、物語,,,YA fiction (青春小説)
+Mori_O_Shibuechuusa.txt,Shibuechuusai,Ogai Mori,high,historical non-fiction,1916,homodiegetic,,,,,1862-02-17--1922-07-09,,105492,小説、物語,,,
+Oguri_M_Kokushikansatsu.txt,Kokushikansatsujinjiken,Mushitaro Oguri,low,horror,1934,homodiegetic,,,,,1901-03-14--1946-02-10,,169712,小説、物語,,,怪奇
+Oguri_M_Shiroari.txt,Shiroari,Mushitaro Oguri,low,horror,1976,heterodiegetic,,,,,1901-03-14--1946-02-10,,31196,小説、物語,,,怪奇（完全犯罪）
+Oguri_M_Senkoutei_.txt,Senkoutei「Habihitsuburugu」,Mushitaro Oguri,low,detective,1977,heterodiegetic,,,,,1901-03-14--1946-02-10,,35523,小説、物語,,,二十世紀鉄仮面
+Sakaguchi_A_Jirorinoonna.txt,Jirorinoonna,Ango Sakaguchi,low,fiction,1948,autodiegetic,,,,,1906-10-20--1955-02-17,,28394,小説、物語,,,Possibly High
+Sakaguchi_A_Fukuinsatsuji.txt,Fukuinsatsujinjiken,Ango Sakaguchi,low,detective,1949,autodiegetic,,,,,1906-10-20--1955-02-17,,53520,小説、物語,,,
+Sakaguchi_A_Furenzokusatsu.txt,Furenzokusatsujinjiken,Ango Sakaguchi,low,detective,1947,autodiegetic,,,,,1906-10-20--1955-02-17,,89271,小説、物語,,,
+Kobayashi_T_Kanikousen.txt,Kanikousen,Takiji Kobayashi,high,fiction,1929,heterodiegetic,,,,,1903-10-13--1933-02-20,,34327,小説、物語,,,
+Kobayashi_T_Koujousai.txt,Koujousaibou,Takiji Kobayashi,high,fiction,1978,heterodiegetic,,,,,1903-10-13--1933-02-20,,35898,小説、物語,,,
+Kobayashi_T_Touseikatsushi.txt,Touseikatsusha,Takiji Kobayashi,high,fiction,1974,autodiegetic,,,,,1903-10-13--1933-02-20,,38909,小説、物語,,,
+Kobayashi_T_Fuzaijinushi.txt,Fuzaijinushi,Takiji Kobayashi,high,fiction,1929,heterodiegetic,,,,,1903-10-13--1933-02-20,,38296,小説、物語,,,
+Tanizaki_J_Kagi.txt,Kagi,Jun'ichiro Tanizaki,high,fiction,1956,homodiegetic,,,,,1886-07-24--1965-07-30,,57162,小説、物語,,,
+Tanizaki_J_Shunkinsho.txt,Shunkinshou,Jun'ichiro Tanizaki,high,fiction,1933,homodiegetic,,,,,1886-07-24--1965-07-30,,29112,小説、物語,,,
+Tanizaki_J_Shoushoushi.txt,Shoushoushigemotonohaha,Jun'ichiro Tanizaki,high,fiction,1949,heterodiegetic,,,,,1886-07-24--1965-07-30,,50052,小説、物語,,,
+Tanizaki_J_Chijinnoai.txt,Chijinnoai,Jun'ichiro Tanizaki,high,fiction,1924,homodiegetic,,,,,1886-07-24--1965-07-30,,100155,小説、物語,,,
+Tanizaki_J_Manji.txt,Manji,Jun'ichiro Tanizaki,high,fiction,1928,homodiegetic,,,,,1886-07-24--1965-07-30,,74369,小説、物語,,,
+Tanizaki_J_Moumokumonoga.txt,Moumokumonogatari,Jun'ichiro Tanizaki,high,fiction,1931,homodiegetic,,,,,1886-07-24--1965-07-30,,38924,小説、物語,,,
+Kawabata_Y_Izu_no_Odoriko.txt,Izu no Odoriko,Kawabata Yasunari,high,fiction,1926,homodiegetic,,,,,1899/6/14--1972/4/16,,48236,小説、物語,,,
+Kawabata_Y_Koto.txt,Koto,Kawabata Yasunari,high,fiction,1962,homodiegetic,,,,,1899/6/14--1972/4/16,,59190,小説、物語,,,
+Kawabata_Y_Senbazuru.txt,Senbazuru,Kawabata Yasunari,high,fiction,1952,homodiegetic,,,,,1899/6/14--1972/4/16,,64882,小説、物語,,,
+Kawabata_Y_Yama_no_Oto.txt,Yama no Oto,Kawabata Yasunari,high,fiction,1954,homodiegetic,,,,,1899/6/14--1972/4/16,,84843,小説、物語,,,
+Kawabata_Y_Nemureru_Bijo.txt,Nemureru Bijo,Kawabata Yasunari,high,fiction,1961,homodiegetic,,,,,1899/6/14--1972/4/16,,67194,小説、物語,,,
+Kawabata_Y_Yukiguni.txt,Yukiguni,Kawabata Yasunari,high,fiction,1947,homodiegetic,,,,,1899/6/14--1972/4/16,,43492,小説、物語,,,

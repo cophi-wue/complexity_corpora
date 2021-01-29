@@ -1,0 +1,48 @@
+filename	brow	language	corpus	corpus_id	author_ja	title_ja	author	title	author_year	year	token_count	ndc	genre	narrative_perspective	comments
+Natsume_S_Kusamakura.txt	high	ja	Aozora Bunko	aozorabunko/cards/000148/files/776_14941.html	夏目漱石	草枕	Soseki Natsume	Kusamakura	1867-02-09--1916-12-09	1906	48693	小説、物語	fiction	autodiegetic	
+Natsume_S_Kokoro.txt	high	ja	Aozora Bunko	aozorabunko/cards/000148/files/773_14560.html	夏目漱石	こころ	Soseki Natsume	Kokoro	1867-02-09--1916-12-09	1991	98019	小説、物語	fiction	homodiegetic	
+Natsume_S_Sanshirou.txt	high	ja	Aozora Bunko	aozorabunko/cards/000148/files/794_14946.html	夏目漱石	三四郎	Soseki Natsume	Sanshirou	1867-02-09--1916-12-09	1908	93915	小説、物語	fiction	homodiegetic	
+Natsume_S_Bocchan.txt	high	ja	Aozora Bunko	aozorabunko/cards/000148/files/752_14964.html	夏目漱石	坊っちゃん	Soseki Natsume	Bocchan	1867-02-09--1916-12-09	1906	51389	小説、物語	fiction	autodiegetic	
+Dazai_O_Ningenshikka.txt	high	ja	Aozora Bunko	aozorabunko/cards/000035/files/301_14912.html	太宰治	人間失格	Osamu Dazai	Ningenshikkaku	1909-06-19--1948-06-13	1952	39788	小説、物語	fiction	autodiegetic	
+Dazai_O_Shayou.txt	high	ja	Aozora Bunko	aozorabunko/cards/000035/files/1565_8559.html	太宰治	斜陽	Osamu Dazai	Shayou	1909-06-19--1948-06-13	1947	48940	小説、物語	fiction	autodiegetic	
+Yumeno_K_Dogura_Magura.txt	low	ja	Aozora Bunko	aozorabunko/cards/000096/files/2093_28841.html	夢野久作	ドグラ・マグラ	Kyusaku Yumeno	Dogura・Magura	1889-01-04--1936-03-11	1992	240272	小説、物語	detective	autodiegetic	
+Yumeno_K_Shoujojigo.txt	low	ja	Aozora Bunko	aozorabunko/cards/000096/files/935_23282.html	夢野久作	少女地獄	Kyusaku Yumeno	Shoujojigoku	1889-01-04--1936-03-11	1936	60215	小説、物語	detective	homodiegetic	Collection
+Yumeno_K_Oshienokiseki.txt	low	ja	Aozora Bunko	aozorabunko/cards/000096/files/930_21997.html	夢野久作	押絵の奇蹟	Kyusaku Yumeno	Oshienokiseki	1889-01-04--1936-03-11	1929	35134	小説、物語	detective	autodiegetic	
+Edogawa_R_Mahouhakase.txt	low	ja	Aozora Bunko	aozorabunko/cards/001779/files/56679_62562.html	江戸川乱歩	魔法博士	Ranpo Edogawa	Mahouhakase	1894-10-21--1965-07-28	1956	39021	小説、物語 (児童書)	detective	heterodiegetic	
+Edogawa_R_Shounentan.txt	low	ja	Aozora Bunko	aozorabunko/cards/001779/files/56669_58756.html	江戸川乱歩	少年探偵団	Ranpo Edogawa	Shounentanteidan	1894-10-21--1965-07-28	1937	53166	小説、物語 (児童書)	detective	heterodiegetic	
+Edogawa_R_Uchuukaiji.txt	low	ja	Aozora Bunko	aozorabunko/cards/001779/files/56674_61591.html	江戸川乱歩	宇宙怪人	Ranpo Edogawa	Uchuukaijin	1894-10-21--1965-07-28	1953	45612	小説、物語 (児童書)	detective	heterodiegetic	
+Edogawa_R_Haiironokyo.txt	low	ja	Aozora Bunko	aozorabunko/cards/001779/files/56676_61994.html	江戸川乱歩	灰色の巨人	Ranpo Edogawa	Haiironokyojin	1894-10-21--1965-07-28	1955	39455	小説、物語 (児童書)	detective	heterodiegetic	
+Unno_J_Ukabuhikouto.txt	low	ja	Aozora Bunko	aozorabunko/cards/000160/files/3527_18466.html	海野十三	浮かぶ飛行島	Juza Unno	Ukabuhikoutou	1897-12-26--1949-05-17	1938	66890	小説、物語 (児童書)	SF	heterodiegetic	Young SF
+Unno_J_Kaitouou.txt	low	ja	Aozora Bunko	aozorabunko/cards/000160/files/3370_25722.html	海野十三	怪塔王	Juza Unno	Kaitouou	1897-12-26--1949-05-17	1938	89299	小説、物語 (児童書)	SF	heterodiegetic	Young SF
+Unno_J_Kaseiheidan.txt	low	ja	Aozora Bunko	aozorabunko/cards/000160/files/3368_25725.html	海野十三	火星兵団	Juza Unno	Kaseiheidan	1897-12-26--1949-05-17	1939	164571	小説、物語 (児童書)	SF	homodiegetic	Young SF
+Unno_J_Chikyuuyousa.txt	low	ja	Aozora Bunko	aozorabunko/cards/000160/files/3239_15747.html	海野十三	地球要塞	Juza Unno	Chikyuuyousai	1897-12-26--1949-05-17	1940	38832	小説、物語	SF	autodiegetic	
+Okamoto_K_Hanshichitorimo.txt	low	ja	Aozora Bunko	aozorabunko/cards/000082/files/964_15046.html	岡本綺堂	半七捕物帳: 69 白蝶怪	Kido Okamoto	Hanshichitorimonochou: _Hakuchoukai	1872-11-15--1939-03-01	1986	44266	小説、物語	detective	heterodiegetic	岡っ引捕り物小説
+Okamoto_K_Seiadoukida.txt	low	ja	Aozora Bunko	aozorabunko/cards/000082/files/1307_20001.html	岡本綺堂	青蛙堂鬼談	Kido Okamoto	Seiadoukidan	1872-11-15--1939-03-01	1988	71431	小説、物語	horror	homodiegetic	怪奇
+Okamoto_K_Hidanokaidan.txt	low	ja	Aozora Bunko	aozorabunko/cards/000082/files/49682_51215.html	岡本綺堂	飛騨の怪談	Kido Okamoto	Hidanokaidan	1872-11-15--1939-03-01	1912	60867	小説、物語	horror	homodiegetic	怪奇
+Okamoto_K_Ryougokunoa.txt	low	ja	Aozora Bunko	aozorabunko/cards/000082/files/478_33090.html	岡本綺堂	両国の秋	Kido Okamoto	Ryougokunoaki	1872-11-15--1939-03-01	1993	34396	小説、物語	horror	homodiegetic	怪奇
+Okamoto_K_Tamamonomae.txt	low	ja	Aozora Bunko	aozorabunko/cards/000082/files/480_39601.html	岡本綺堂	玉藻の前	Kido Okamoto	Tamamonomae	1872-11-15--1939-03-01	1992	75679	小説、物語	horror	homodiegetic	怪奇
+Mori_O_Uita_Sekusu.txt	high	ja	Aozora Bunko	aozorabunko/cards/000129/files/695_22806.html	森鴎外	ヰタ・セクスアリス	Ogai Mori	Uita・Sekusuarisu	1862-02-17--1922-07-09	1909	35630	小説、物語	fiction	autodiegetic	
+Mori_O_Seinen.txt	high	ja	Aozora Bunko	aozorabunko/cards/000129/files/2522_5002.html	森鴎外	青年	Ogai Mori	Seinen	1862-02-17--1922-07-09	1910	73259	小説、物語	fiction	homodiegetic	YA fiction (青春小説)
+Mori_O_Shibuechuusa.txt	high	ja	Aozora Bunko	aozorabunko/cards/000129/files/2058_19628.html	森鴎外	渋江抽斎	Ogai Mori	Shibuechuusai	1862-02-17--1922-07-09	1916	105492	小説、物語	historical non-fiction	homodiegetic	
+Oguri_M_Kokushikansatsu.txt	low	ja	Aozora Bunko	aozorabunko/cards/000125/files/1317_23268.html	小栗虫太郎	黒死館殺人事件	Mushitaro Oguri	Kokushikansatsujinjiken	1901-03-14--1946-02-10	1934	169712	小説、物語	horror	homodiegetic	怪奇
+Oguri_M_Shiroari.txt	low	ja	Aozora Bunko	aozorabunko/cards/000125/files/666_47253.html	小栗虫太郎	白蟻	Mushitaro Oguri	Shiroari	1901-03-14--1946-02-10	1976	31196	小説、物語	horror	heterodiegetic	怪奇（完全犯罪）
+Oguri_M_Senkoutei_.txt	low	ja	Aozora Bunko	aozorabunko/cards/000125/files/43656_26294.html	小栗虫太郎	潜航艇「鷹の城」	Mushitaro Oguri	Senkoutei「Habihitsuburugu」	1901-03-14--1946-02-10	1977	35523	小説、物語	detective	heterodiegetic	二十世紀鉄仮面
+Sakaguchi_A_Jirorinoonna.txt	low	ja	Aozora Bunko	aozorabunko/cards/001095/files/42827_26666.html	坂口安吾	ジロリの女	Ango Sakaguchi	Jirorinoonna	1906-10-20--1955-02-17	1948	28394	小説、物語	fiction	autodiegetic	Possibly High
+Sakaguchi_A_Fukuinsatsuji.txt	low	ja	Aozora Bunko	aozorabunko/cards/001095/files/43163_59485.html	坂口安吾	復員殺人事件	Ango Sakaguchi	Fukuinsatsujinjiken	1906-10-20--1955-02-17	1949	53520	小説、物語	detective	autodiegetic	
+Sakaguchi_A_Furenzokusatsu.txt	low	ja	Aozora Bunko	aozorabunko/cards/001095/files/42626_60035.html	坂口安吾	不連続殺人事件	Ango Sakaguchi	Furenzokusatsujinjiken	1906-10-20--1955-02-17	1947	89271	小説、物語	detective	autodiegetic	
+Kobayashi_T_Kanikousen.txt	high	ja	Aozora Bunko	aozorabunko/cards/000156/files/1465_16805.html	小林多喜二	蟹工船	Takiji Kobayashi	Kanikousen	1903-10-13--1933-02-20	1929	34327	小説、物語	fiction	heterodiegetic	
+Kobayashi_T_Koujousai.txt	high	ja	Aozora Bunko	aozorabunko/cards/000156/files/1466_25186.html	小林多喜二	工場細胞	Takiji Kobayashi	Koujousaibou	1903-10-13--1933-02-20	1978	35898	小説、物語	fiction	heterodiegetic	
+Kobayashi_T_Touseikatsushi.txt	high	ja	Aozora Bunko	aozorabunko/cards/000156/files/833_28260.html	小林多喜二	党生活者	Takiji Kobayashi	Touseikatsusha	1903-10-13--1933-02-20	1974	38909	小説、物語	fiction	autodiegetic	
+Kobayashi_T_Fuzaijinushi.txt	high	ja	Aozora Bunko	aozorabunko/cards/000156/files/49181_34750.html	小林多喜二	不在地主	Takiji Kobayashi	Fuzaijinushi	1903-10-13--1933-02-20	1929	38296	小説、物語	fiction	heterodiegetic	
+Tanizaki_J_Kagi.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/56846_58899.html	谷崎潤一郎	鍵	Jun'ichiro Tanizaki	Kagi	1886-07-24--1965-07-30	1956	57162	小説、物語	fiction	homodiegetic	
+Tanizaki_J_Shunkinsho.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/56866_58169.html	谷崎潤一郎	春琴抄	Jun'ichiro Tanizaki	Shunkinshou	1886-07-24--1965-07-30	1933	29112	小説、物語	fiction	homodiegetic	
+Tanizaki_J_Shoushoushi.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/56847_58242.html	谷崎潤一郎	少将滋幹の母	Jun'ichiro Tanizaki	Shoushoushigemotonohaha	1886-07-24--1965-07-30	1949	50052	小説、物語	fiction	heterodiegetic	
+Tanizaki_J_Chijinnoai.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/58093_62049.html	谷崎潤一郎	痴人の愛	Jun'ichiro Tanizaki	Chijinnoai	1886-07-24--1965-07-30	1924	100155	小説、物語	fiction	homodiegetic	
+Tanizaki_J_Manji.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/56873_62035.html	谷崎潤一郎	卍	Jun'ichiro Tanizaki	Manji	1886-07-24--1965-07-30	1928	74369	小説、物語	fiction	homodiegetic	
+Tanizaki_J_Moumokumonoga.txt	high	ja	Aozora Bunko	aozorabunko/cards/001383/files/56868_58745.html	谷崎潤一郎	盲目物語	Jun'ichiro Tanizaki	Moumokumonogatari	1886-07-24--1965-07-30	1931	38924	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Izu_no_Odoriko.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Izu_no_Odoriko.txt	川端 康成	伊豆の踊子	Kawabata Yasunari	Izu no Odoriko	1899/6/14--1972/4/16	1926	48236	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Koto.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Koto.txt	川端 康成	古都	Kawabata Yasunari	Koto	1899/6/14--1972/4/16	1962	59190	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Senbazuru.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Senbazuru.txt	川端 康成	千羽鶴	Kawabata Yasunari	Senbazuru	1899/6/14--1972/4/16	1952	64882	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Yama_no_Oto.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Yama_no_Oto.txt	川端 康成	山の音	Kawabata Yasunari	Yama no Oto	1899/6/14--1972/4/16	1954	84843	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Nemureru_Bijo.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Nemureru_Bijo.txt	川端 康成	眠れる美女	Kawabata Yasunari	Nemureru Bijo	1899/6/14--1972/4/16	1961	67194	小説、物語	fiction	homodiegetic	
+Kawabata_Y_Yukiguni.txt	high	ja	Ebook Restricted	Ebook Restricted/Kawabata_Y_Yukiguni.txt	川端 康成	雪国	Kawabata Yasunari	Yukiguni	1899/6/14--1972/4/16	1947	43492	小説、物語	fiction	homodiegetic	
